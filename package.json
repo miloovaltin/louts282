@@ -1,0 +1,16 @@
+{
+"name": "louts282",
+"theme": "louts282",
+"version": "2.6.9",
+"description": "louts282 สมัครเว็บไซต์พนันเว็บตรง อันดับ 1 ให้โบนัสเครดิตฟรี",
+"keywords": [
+"louts282",
+"louts282 เครดิตฟรี",
+"louts282 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/louts282",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
